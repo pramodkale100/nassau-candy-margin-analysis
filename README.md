@@ -24,7 +24,7 @@ For distributors, sales volume alone is a misleading measure of business health.
 - **Weakest performer:** Kazookles converts only 7.7% of sales into profit (92.3% cost-to-sales ratio)
 - All identified margin problems trace back to **cost structure**, not pricing strategy
 
-## 🛠️ Methodology
+##  Methodology
 
 1. **Data Cleaning & Validation** — verified cost/sales integrity, standardized labels
 2. **Core KPI Calculation** — Gross Margin %, Profit per Unit, Revenue/Profit Contribution %
